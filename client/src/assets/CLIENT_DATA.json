@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Araldo",
+    "clientid": "3794:6413:7568:9131:8bcf:4ee0:ef80:31f2/15",
+    "redirecturis": "Monitor, two-banded",
+    "securitykey": "921995024-3",
+    "configuration": "Chrysothemis",
+    "cellStyle": {
+      "color": "red",
+      "backgroundColor": "red"
+    }
+  },
+  {
+    "name": "Daryl",
+    "clientid": "f009:9584:b54a:6e0e:8433:4725:2d74:f2f9/126",
+    "redirecturis": "Lizard, goanna",
+    "securitykey": "813988635-1",
+    "configuration": "Alpine Arthrorhaphis Lichen"
+  },
+  {
+    "name": "Skell",
+    "clientid": "bb25:c959:a9b0:3817:e905:d958:93e5:3edc/123",
+    "redirecturis": "Kiskadee, great",
+    "securitykey": "513231676-X",
+    "configuration": "Doum Palm"
+  },
+  {
+    "name": "Tommy",
+    "clientid": "8b29:51bb:2222:a6:7c94:a4e:5938:9e58/65",
+    "redirecturis": "Goose, canada",
+    "securitykey": "627952525-2",
+    "configuration": "Bobtail Barley"
+  },
+  {
+    "name": "Kiri",
+    "clientid": "8afa:4828:4c57:f31:1e19:a380:8d53:a941/52",
+    "redirecturis": "Bateleur eagle",
+    "securitykey": "270083792-4",
+    "configuration": "Broadleaf Tickseed"
+  },
+  {
+    "name": "Efrem",
+    "clientid": "b936:5448:8c5a:4b1c:4288:f339:326:efcf/28",
+    "redirecturis": "Stork, black-necked",
+    "securitykey": "808066469-2",
+    "configuration": "Howell's Camas",
+    "cellStyle": {
+      "backgroundColor": "red",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Austin",
+    "clientid": "2fc:397f:e894:f13b:fcb:dd04:79c5:df55/68",
+    "redirecturis": "Camel, dromedary",
+    "securitykey": "537144049-6",
+    "configuration": "Apple Blossom"
+  },
+  {
+    "name": "Amalita",
+    "clientid": "7638:dcd6:c3bf:8d3d:56f2:ab15:d0cd:7f96/71",
+    "redirecturis": "Pampa gray fox",
+    "securitykey": "221846729-1",
+    "configuration": "Warner's Dodder"
+  },
+  {
+    "name": "Celinka",
+    "clientid": "b297:9d9a:6949:75f:1530:c7ca:8805:6302/104",
+    "redirecturis": "Antelope ground squirrel",
+    "securitykey": "995775067-4",
+    "configuration": "Copperweed"
+  },
+  {
+    "name": "Gerome",
+    "clientid": "61eb:c807:dc80:1331:1087:4259:7502:c5eb/2",
+    "redirecturis": "Capuchin, weeper",
+    "securitykey": "008493276-7",
+    "configuration": "Peronia"
+  },
+  {
+    "name": "Kimball",
+    "clientid": "7217:ede2:3226:2313:5d4:8872:32e4:568d/19",
+    "redirecturis": "Paradoxure",
+    "securitykey": "193064642-9",
+    "configuration": "Greensword"
+  },
+  {
+    "name": "Wake",
+    "clientid": "f234:68d0:681a:b94c:2c2e:4c4f:46cc:d0fe/91",
+    "redirecturis": "Lemming, arctic",
+    "securitykey": "926923641-2",
+    "configuration": "Ithaca Blackberry"
+  }
+]
